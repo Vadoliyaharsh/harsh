@@ -152,7 +152,7 @@ img {
     line-height: 1.6;
 }
 
-/* Jane Miller */
+/* Testimonial Section (Jane Miller) */
 .nm {
     background-color: #F6F8F5;
     padding: 80px 50px;
@@ -300,13 +300,6 @@ img {
     color: #4a5d4e;
     font-size: 16px;
     font-weight: 400;
-}
-
-@media (max-width: 768px) {
-    .about-container, .footer-container {
-        flex-direction: column;
-        text-align: center;
-    }
 }
 
 
