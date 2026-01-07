@@ -1,0 +1,15 @@
+@media (max-width: 768px) {
+    .about-container{
+        flex-direction: column;
+        text-align: center;
+    }
+}
+
+@media  (max-width:768px){
+    .footer-container{
+        flex-direction: column;
+        text-align: center;
+        justify-content:space-between ;
+        gap:40px;
+    }
+}
